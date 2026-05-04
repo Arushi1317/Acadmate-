@@ -5,6 +5,19 @@ A soft little productivity space with a brain.
 AcadMate is a full-stack academic productivity app that helps you manage tasks, stay organized, and get gentle AI-powered planning support — all in one place.
 
 ---
+## 🖼️ Preview
+
+![Dashboard](assets/dashboard1.png)
+![Dashboard](assets/dashboard2.png)
+![Dashboard](assets/task.png)
+![Dashboard](assets/calendar1.png)
+![Dashboard](assets/calendar2.png)
+![Dashboard](assets/chat1.png)
+![Dashboard](assets/chat2.png)
+![Dashboard](assets/chat3.png)
+
+---
+
 
 ## ✨ What it does
 
